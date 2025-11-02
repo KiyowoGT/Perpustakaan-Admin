@@ -1,0 +1,5 @@
+opencv-python
+Pillow
+qrcode
+firebase-admin
+tkcalendar
